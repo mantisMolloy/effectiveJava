@@ -16,12 +16,12 @@ Re-visiting Effective Java by Joshua Bloch and uploading some of the methods out
 * Item 9: Always override hashCode when you override equals
 * Item 10: Always override toString
 * * Item 11: Override clone judiciously
-* * Item 12: Consider implementing Comparable
+* Item 12: Consider implementing Comparable
 
 ### Chapter 4. Classes and Interfaces
-* * Item 13: Minimize the accessibility of classes and members
-* * Item 14: In public classes, use accessor methods, not public fields
-* * Item 15: Minimize mutability
+* Item 13: Minimize the accessibility of classes and members
+* Item 14: In public classes, use accessor methods, not public fields
+* Item 15: Minimize mutability
 * * Item 16: Favor composition over inheritance
 * * Item 17: Design and document for inheritance or else prohibit it
 * * Item 18: Prefer interfaces to abstract classes
