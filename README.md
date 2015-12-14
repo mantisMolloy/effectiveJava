@@ -26,18 +26,18 @@ Re-visiting Effective Java by Joshua Bloch and uploading some of the methods out
 * Item 17: Design and document for inheritance or else prohibit it
 * Item 18: Prefer interfaces to abstract classes
 * Item 19: Use interfaces only to define types
-* * Item 20: Prefer class hierarchies to tagged classes
-* * Item 21: Use function objects to represent strategies
-* * Item 22: Favor static member classes over nonstatic
+* Item 20: Prefer class hierarchies to tagged classes
+* Item 21: Use function objects to represent strategies
+* Item 22: Favor static member classes over nonstatic
 
 ### Chapter 5. Generics
-* * Item 23: Don’t use raw types in new code
-* * Item 24: Eliminate unchecked warnings
-* * Item 25: Prefer lists to arrays
-* * Item 26: Favor generic types
-* * Item 27: Favor generic methods
-* * Item 28: Use bounded wildcards to increase API flexibility
-* * Item 29: Consider typesafe heterogeneous containers
+* Item 23: Donâ€™t use raw types in new code
+* Item 24: Eliminate unchecked warnings
+* Item 25: Prefer lists to arrays
+* Item 26: Favor generic types
+* Item 27: Favor generic methods
+* Item 28: Use bounded wildcards to increase API flexibility
+* Item 29: Consider typesafe heterogeneous containers
 
 ### Chapter 6. Enums and Annotations
 * * Item 30: Use enums instead of int constants
@@ -81,7 +81,7 @@ Re-visiting Effective Java by Joshua Bloch and uploading some of the methods out
 * * Item 62: Document all exceptions thrown by each method
 * * Item 63: Include failure-capture information in detail messages
 * * Item 64: Strive for failure atomicity
-* * Item 65: Don’t ignore exceptions
+* * Item 65: Donâ€™t ignore exceptions
 
 ### Chapter 10. Concurrency
 * * Item 66: Synchronize access to shared mutable data
@@ -90,7 +90,7 @@ Re-visiting Effective Java by Joshua Bloch and uploading some of the methods out
 * * Item 69: Prefer concurrency utilities to wait and notify
 * * Item 70: Document thread safety
 * * Item 71: Use lazy initialization judiciously
-* * Item 72: Don’t depend on the thread scheduler
+* * Item 72: Donâ€™t depend on the thread scheduler
 * * Item 73: Avoid thread groups
 
 ### Chapter 11. Serialization
